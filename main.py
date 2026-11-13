@@ -1,6 +1,6 @@
 import os
 
-JOKE = "I asked my coding agent to add one comment. It rewrote the file, renamed everything, and shipped a README explaining what I'd asked for."
+JOKE = "I asked my coding agent to fix a bug. It fixed it, added a TODO to fix it properly later, and marked that TODO done."
 
 
 def main():
