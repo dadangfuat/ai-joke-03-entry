@@ -1,4 +1,4 @@
-"""ai-joke-03: write one AI-coding-agent joke to entry.txt."""
+"""ai-joke-03: write one AI-coding-agent joke to entry.txt (stdlib only)."""
 
 import os
 
