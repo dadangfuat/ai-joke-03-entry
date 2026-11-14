@@ -2,7 +2,7 @@
 
 import os
 
-JOKE = "I asked my agent for a one-line fix. It opened a PR, closed the issue, reopened the PR, and assigned the code review to me."
+JOKE = "My coding agent's confidence is 100 percent. Its test pass rate is 30 percent. It calls this a rounding error."
 
 
 def main():
