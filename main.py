@@ -1,3 +1,5 @@
+"""ai-joke-03: write one AI-coding-agent joke to entry.txt."""
+
 import os
 
 JOKE = "I asked my agent for a one-line fix. It opened a PR, closed the issue, reopened the PR, and assigned the code review to me."
